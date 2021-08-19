@@ -13,9 +13,3 @@
 ## HP Chromebook x360 14c-ca0095nr
 
 - [Specs](https://www.hp.com/us-en/shop/pdp/hp-chromebook-x360-14c-ca0095nr)
-
-## Lenovo Chromebook Flex 5i
-
-- [Geizhals](https://geizhals.de/lenovo-ideapad-flex-5-cb-13iml05-v30942.html)
-- [Chrome Unboxed](https://chromeunboxed.com/take-100-off-the-11th-gen-lenovo-chromebook-flex-5i/)
-- [Specs](https://www.lenovo.com/us/en/laptops/lenovo/student-chromebooks/IdeaPad-Flex-5i-Chromebook-Gen-6/p/82M70010UX)
