@@ -7,10 +7,12 @@
 ## Acer Chromebook spin 713
 
 ## Asus Chromebook Flip CX5
+// two diffrent models: CX5500 (15.6 inch) and CX5400 (14.0 inch). The size is the main difference
 
 - [CX5 Comparison](https://www.asus.com/searchresult?searchType=products&searchKey=chromebook%20cx5&page=1)
 - [ChromeUnboxed](https://chromeunboxed.com/grab-the-powerful-asus-chromebook-cx5-for-as-little-as-419-150-off/)
 - [ab ~450€](https://geizhals.de/asus-chromebook-flip-cx5-cx5500-v76846.html)
+- https://www.asus.com/Laptops/For-Home/Chromebook/ASUS-Chromebook-Flip-CX5-CX5500/techspec/
 
 # USI Pens
 
@@ -29,7 +31,7 @@
 
 ## Lenovo USI Pen
 
-- thick
+- thick tip
 
 ## Penoval USI
 
