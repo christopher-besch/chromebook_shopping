@@ -1,5 +1,17 @@
 # Chrombooks
 
+## Lenovo Chromebook flex 5
+
+- [ab ~400€](https://geizhals.de/lenovo-ideapad-flex-5-cb-13iml05-v30942.html)
+
+## Acer Chromebook spin 713
+
+## Asus Chromebook Flip CX5
+
+- [CX5 Comparison](https://www.asus.com/searchresult?searchType=products&searchKey=chromebook%20cx5&page=1)
+- [ChromeUnboxed](https://chromeunboxed.com/grab-the-powerful-asus-chromebook-cx5-for-as-little-as-419-150-off/)
+- [ab ~450€](https://geizhals.de/asus-chromebook-flip-cx5-cx5500-v76846.html)
+
 # USI Pens
 
 - [Best USI Pen for Chromebooks: Lenovo, Acer, HP or Penoval (April 2021)](https://youtu.be/Ja2F4_LfjI8)
@@ -14,6 +26,10 @@
 ## VitalASC USI Pen
 
 - rechargeable
+
+## Lenovo USI Pen
+
+- thick
 
 ## Penoval USI
 
