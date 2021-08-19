@@ -24,11 +24,6 @@
 - AAAA battery
 - two buttons
 
-## HP Rechargable Stylus
-
-- rechargeable
-- no buttons
-
 ## Lenovo USI Pen
 
 - AAAA battery
@@ -39,6 +34,12 @@
 
 - AAAA battery
 - two buttons
+
+## HP Rechargable Stylus
+
+- rechargeable
+- no buttons
+- magnetische Halterung am Laptop
 
 ## Asus pen active stylus
 
