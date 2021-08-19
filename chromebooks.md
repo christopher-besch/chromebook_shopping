@@ -13,3 +13,7 @@
 ## HP Chromebook x360 14c-ca0095nr
 
 - [Specs](https://www.hp.com/us-en/shop/pdp/hp-chromebook-x360-14c-ca0095nr)
+
+## Acer Chromebook Spin 713
+
+- expensive

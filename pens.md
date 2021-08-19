@@ -16,5 +16,8 @@
 ## Lenovo USI Pen
 
 - thick tip
+- AAAA battery
 
-## Penoval USI
+## iPlume USI Stylus
+
+- AAAA battery
