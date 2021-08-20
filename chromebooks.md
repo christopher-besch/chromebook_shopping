@@ -5,10 +5,18 @@
 ## Asus Chromebook Flip CX5
 
 - two different models: CX5500 (15.6 inch) and CX5400 (14.0 inch)
-- [5400 5500 Comparison](https://www.asus.com/searchresult?searchType=products&searchKey=chromebook%20cx5&page=1)
+- [Comparison](https://www.asus.com/searchresult?searchType=products&searchKey=chromebook%20cx5&page=1)
+
+### Asus Chrombook Flip CX5 5500
+
 - [5500 Chrome Unboxed](https://chromeunboxed.com/grab-the-powerful-asus-chromebook-cx5-for-as-little-as-419-150-off/)
-- [Geizhals](https://geizhals.de/asus-chromebook-flip-cx5-cx5500-v76846.html)
+- [5500 Chrome Unboxed Video](https://www.youtube.com/watch?v=SRfrFb_cF-A)
+- [5500 Geizhals](https://geizhals.de/asus-chromebook-flip-cx5-cx5500-v76846.html)
 - [5500 Specs](https://www.asus.com/Laptops/For-Home/Chromebook/ASUS-Chromebook-Flip-CX5-CX5500/techspec/)
+
+### Asus Chrombook Flip CX5 5400
+
+- [5400 Chrome Unboxed Video](https://youtu.be/cCHiZQ4sMnQ)
 
 ## HP Chromebook x360 14c-ca0095nr
 
@@ -17,3 +25,4 @@
 ## Acer Chromebook Spin 713
 
 - expensive
+
