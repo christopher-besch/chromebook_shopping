@@ -3,6 +3,7 @@
 - [Best USI Pen for Chromebooks: Lenovo, Acer, HP or Penoval (April 2021)](https://youtu.be/Ja2F4_LfjI8)
 - [Best USI Pen For Your Chromebook - Digital Pen for Chromebooks](https://youtu.be/EOxAgjOKAq4)
 - [The Current State Of USI Pens On Chromebooks](The Current State Of USI Pens On Chromebooks)
+- [Best USI pens for laptops, Chromebooks, and tablets in 2021](https://www.xda-developers.com/best-usi-pens)
 
 ## Penoval USI Pen (not av)
 
@@ -44,6 +45,12 @@
 
 - AAAA battery
 - two buttons
+
+## HP Rechargable Stylus
+
+- rechargeable
+- no buttons
+- magnetische Halterung am Laptop
 
 ## Asus pen active stylus
 
