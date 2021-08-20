@@ -32,6 +32,7 @@
 - magnetic attachment with HP chromebooks
 - [Geizhals](https://geizhals.de/hp-rechargeable-usi-pen-8nn78aa-a2312377.html)
 - [HP USI Pen: Unboxing and First Impression Compared to Lenovo USI Pen!](https://youtu.be/4hdM48DxlAg)
+- [https://youtu.be/lRy0xlaoraM](Lenovo USI Pen vs. HP USI Pen: Which one is better? (IdeaPad Duet Chromebook))
 
 ## Lenovo USI Pen
 
