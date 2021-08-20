@@ -1,6 +1,6 @@
 # Chrombooks
 
-- all support USI
+- all listed support USI
 
 ## Asus Chromebook Flip CX5
 
