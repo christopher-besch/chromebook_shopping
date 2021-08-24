@@ -59,7 +59,7 @@
 
 ## Conclusion
 
-- limits me where I don't care and leaves me do my thing where I need it to
+- limits me where I don't care and lets me do my thing where I need it to
 - feels incredibly satisfying and professional to work with
 - everything "just works"
 - size, weight and fans sometimes quite annoying
