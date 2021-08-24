@@ -9,7 +9,7 @@
 - touchpad could be better, small adjustment would be helpful (ended up using stylus most of the time instead)
 - speakers the best I've seen in a laptop
 - fans quiet but noticeable, especially under load and when charging; this is not a passively cooled device like an IPad -> annoys me quiet a bit when alone without any environmental sound or music
-- battery life exceptionally good (should easily handle 11-12h with my workflow)
+- battery life exceptionally good (should easily handle 8-11h with my workflow)
 - stylus feels very cheap for 80€; aluminum body with flimsy plastic cap for USB-C port
 - stylus does job very well, one could only ask for a multi purpose button
 - stylus even attaches to chassis like with an IPad (no inductive charging though)
