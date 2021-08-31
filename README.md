@@ -1,4 +1,4 @@
-# [Chrombooks](chromebooks.md)
+# [Chromebooks](chromebooks.md)
 
 # [Pens](pens.md)
 
