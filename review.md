@@ -4,7 +4,7 @@
 
 - massive device, cumbersome to fold at first -> perfect for programming and note taking on table; annoying for note taking on lap
 - keyboard has to be laid on table when in tabled mode (protective cover good idea)
-- convertible Chromebooks way easier to handle (at least Josie should reconsider buying one with x86_64)
+- convertible Chromebooks way easier to handle
 - keyboard as good if not better than ThinkPad 440p's
 - touchpad could be better, small adjustment would be helpful (ended up using stylus most of the time instead)
 - speakers the best I've seen in a laptop
